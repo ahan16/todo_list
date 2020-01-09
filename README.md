@@ -1,4 +1,6 @@
 # todo_list
-Todo List Project - Javascript Project
+Todo List Project
 
-First Javascript project via Web Dev Bootcamp by Colt Steele on Udemy.
+Project via Web Dev Bootcamp by Colt Steele on Udemy.
+
+Project uses mostly CSS for styling and Javascript for interaction.
